@@ -1,0 +1,39 @@
+
+
+.main-box {
+    /* padding: 50px; */
+    /* border: 1px solid black; */
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.based-onserarch {
+    /* background-color: grey; */
+    height: 10%;
+    width: 88vw;
+
+}
+
+.fresh-recommendation {
+    height: 8vh;
+    /* border: 1px solid black; */
+    display: flex;
+    align-items: center;
+
+
+}
+
+.fresh-recommendation > p {
+    font-size: 25px;
+}
+
+
+.all-cards {
+    display: flex;
+    justify-content: space-around;
+    /* border: 1px solid black; */
+    margin: 10px 0px 10px 0px;
+
+    
+}

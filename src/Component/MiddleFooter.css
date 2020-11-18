@@ -1,0 +1,85 @@
+*{
+    margin:0;
+    padding:0;
+}
+.mainBox{
+    /* display:flex; */
+    /* border-top:1px solid black; */
+    height:23vh;
+    /* z-index: -1; */
+    background-color: #ebeeef;
+}
+.mainBox__CategorieSection{
+    padding:0px 50px 0px 50px;
+    margin-top:10px;
+    display: flex;
+    height:20vh;
+    /* background-color: aquamarine; */
+    /* border:1px solid black; */
+    align-self:center;
+    justify-content: space-around;
+}
+.mainBox__CategorieSection--modifier{
+    /* border:1px solid black; */
+    display: flex;
+    flex-direction: column;
+    /* align-items: center; */
+    justify-content: center;
+}
+
+.categorieTittle{
+    /* margin-top: 20px; */
+    display: flex;
+    justify-content: space-around;
+    align-self: flex-start;
+    /* border:1px solid black; */
+}
+
+ul{
+    list-style-type: none;
+    margin-top:15px;
+}
+li{
+    font-size:15px;
+    color:rgb(133, 121, 121);
+}
+.appSource  img{
+    margin-top:15px;
+    margin-left: 5px;
+}
+.mainBox__CategorieSection--Mediamodifier{
+    /* border: 1px solid black; */
+    width:12vw;
+    justify-content: center;
+    align-items: center;
+    
+}
+.mediaSource{
+    margin-top: 5px ;
+    /* border: 1px solid black; */
+    padding:0px 12px 0px 12px;
+    display: flex;
+    justify-content:space-around;
+
+}
+
+.categorieTittle__followUs{
+    margin-top:25px;
+}
+.classifields{
+    height:3.3em;
+    background-color:#002f34;
+    display:flex;
+    align-items: center;
+    justify-content: space-between;
+    
+}
+
+.CountriesUpdate,.PakistanClassifiedsUpdate{
+    color:#fff;
+    font-weight:300;
+    font-size:13px;
+    margin:0px 120px 0px 120px;
+    
+
+}

@@ -1,0 +1,171 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+.mainBox {
+    height: 92px;
+    background: #f7f7f7;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    justify-content: space-around;
+    
+}
+
+.mainBox__logoLocation{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    /* border: 1px solid black; */
+   width: 29vw;    
+    
+}
+
+.mainBox__logoLocation--location{
+    display: flex;
+    align-items: center;
+    border: 2px solid black;
+    height: 7vh;
+    border-radius: 3px;
+}
+
+.mainBox__logoLocation--location > input{
+    width: 17vw;
+    height: 100%;
+    font-size: 15px;
+    outline: none;
+    border: none;
+}
+
+.mainBox__logoLocation--location > input::placeholder{
+    font-size: 18px;
+    color: black;
+    padding-left: 10px;
+
+}
+
+.mainBox__logoLocation--location > button {
+    background: none;
+    outline: none;
+    border: none;
+    
+}
+
+.mainBox__logoLocation--location > button > #btnIcon , #btnArrow {
+    font-size: 35px;
+    font-weight: 100;
+    transition: 0.5s  ;
+}
+
+.mainBox__logoLocation--location > button > #btnArrow:hover {
+    transform: rotate(180deg) ;
+
+
+    
+}
+
+
+
+.mainBox__logoLocation--logo {
+    width: 5vw;
+    height: 5vh;
+
+    
+}
+
+.mainBox__logoLocation--logo > img {
+    width: 100%;
+    height: 100%;
+}
+
+
+.mainBox__loginSell{
+    display: flex;
+}
+
+.mainBox__searchBar {
+    border: 2px solid black;
+    display: flex;
+    width: 50vw;
+    align-items: center;
+    justify-content: space-between;
+    height: 7vh;
+    border-radius: 3px;
+
+    }
+    .mainBox__searchBar > button{
+        height: 100%;
+        width: 4vw;
+        background-color: #002f34;
+        border: none;
+        outline: none;
+        cursor: pointer;
+
+        
+    }
+
+#searchIcon{
+    color: white;
+    font-size: 30px;
+    font-weight: 200;
+}
+
+
+
+    .mainBox__searchBar > input{
+        font-size: 18px;
+        color: black;
+        width: 100%;
+        height: 100%;
+        padding-left: 8px;
+        outline: none;
+        border: none;
+        border-radius: 3px;
+    }
+
+
+
+
+.mainBox__searchBar > input::placeholder{
+    font-size: 18px;
+    color: black;
+    padding-left: 2px;
+    }
+
+    .mainBox__loginSell{
+     
+        display: flex;
+        width: 12vw;
+        justify-content: space-around;
+        height: 7vh;
+        align-items: center;
+        }
+
+    .login {
+        background: none;
+        outline: none;
+        border: none;
+        
+    }
+
+    .login > span {
+        font-size: 16px;
+        font-weight: 800;
+        text-decoration: underline;
+    }
+
+    .Sell {
+        padding: 5px;
+        width: 7vw;
+        border: 3px solid black;
+        border-radius: 20px;
+        display: flex;
+        align-items: center;
+        
+    }
+
+    .Sell > span{
+        font-weight: 800;
+        font-size: 15px;
+    }

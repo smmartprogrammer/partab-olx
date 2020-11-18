@@ -1,0 +1,84 @@
+*{
+    margin:0;
+    padding:0;
+}
+
+.footerBox{
+    display:flex;
+    align-items:center;
+    width:100vw;
+    height:200px;
+    /* background-color:rgb(133, 121, 121); */
+    background-color:#f7f7f7;
+}
+
+/* .advertiseImage__imageContainer{
+
+} */
+.advertiseImage{
+
+    margin:0px 30px 0px 30px;
+}
+.advertiseImage__imageContainer{
+    margin-left:80px;
+}
+.Approchment{
+    height: 18vh;
+    width: 27vw;
+    /* border:1px solid black; */
+}
+.ApprochHeading{
+    /* border:1px solid black; */
+
+}
+.AppBenefitLine{
+    margin-top:13px;
+    display: flex;
+    align-self: flex-end;
+    
+}
+.AppBenefitLine > P{
+    font-size: 18px;
+    /* color:black; */
+    color: rgb(133, 121, 121);
+}
+.Resource{
+    display: flex;
+}
+.separatorLine{
+    height: 20vh;
+    width: 2px;
+    /* background-color: blue; */
+    background-color: rgb(133, 121, 121);
+}
+.resourceConvince{
+    width:20vw;
+    padding:25px;
+    /* border:1px solid black; */
+    display:flex;
+    flex-direction:column;
+    justify-content: space-around;
+    /* background-color:aqua; */
+}
+.resourceConvince__headingLine{
+    /* border:1px solid black ; */
+}
+
+.path{
+    display:flex;
+    width: 15.5em;
+    align-items:center;
+    justify-content:space-between;
+    /* border:1px solid black ; */
+    flex-wrap: wrap;
+
+}
+.path_appStore, .path_googlePlay{
+    /* border:1px solid black; */
+    display:flex;
+    flex-wrap: wrap;
+}
+/* .path__appStore > img{
+    width: 5px;
+    height:5px;
+} */

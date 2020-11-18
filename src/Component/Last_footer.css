@@ -1,0 +1,15 @@
+.last_footer {
+    height: 3em;
+    color: #fff;
+    background-color:#464747 ;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+
+    }
+
+.location, .copyright{
+    font-size: 13px;
+    margin: 0px 50px 0px 50px ;
+
+}
