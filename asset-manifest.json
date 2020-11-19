@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/smmartprogrammer/partab-olx.git/static/css/main.c3392207.chunk.css",
-    "main.js": "/smmartprogrammer/partab-olx.git/static/js/main.94353f41.chunk.js",
-    "main.js.map": "/smmartprogrammer/partab-olx.git/static/js/main.94353f41.chunk.js.map",
-    "runtime-main.js": "/smmartprogrammer/partab-olx.git/static/js/runtime-main.a300250d.js",
-    "runtime-main.js.map": "/smmartprogrammer/partab-olx.git/static/js/runtime-main.a300250d.js.map",
-    "static/js/2.231f9db0.chunk.js": "/smmartprogrammer/partab-olx.git/static/js/2.231f9db0.chunk.js",
-    "static/js/2.231f9db0.chunk.js.map": "/smmartprogrammer/partab-olx.git/static/js/2.231f9db0.chunk.js.map",
-    "static/js/3.c962cc6b.chunk.js": "/smmartprogrammer/partab-olx.git/static/js/3.c962cc6b.chunk.js",
-    "static/js/3.c962cc6b.chunk.js.map": "/smmartprogrammer/partab-olx.git/static/js/3.c962cc6b.chunk.js.map",
-    "index.html": "/smmartprogrammer/partab-olx.git/index.html",
-    "static/css/main.c3392207.chunk.css.map": "/smmartprogrammer/partab-olx.git/static/css/main.c3392207.chunk.css.map",
-    "static/js/2.231f9db0.chunk.js.LICENSE.txt": "/smmartprogrammer/partab-olx.git/static/js/2.231f9db0.chunk.js.LICENSE.txt"
+    "main.css": "/smmartprogrammer/partab-olx/static/css/main.c3392207.chunk.css",
+    "main.js": "/smmartprogrammer/partab-olx/static/js/main.94353f41.chunk.js",
+    "main.js.map": "/smmartprogrammer/partab-olx/static/js/main.94353f41.chunk.js.map",
+    "runtime-main.js": "/smmartprogrammer/partab-olx/static/js/runtime-main.5e237ea1.js",
+    "runtime-main.js.map": "/smmartprogrammer/partab-olx/static/js/runtime-main.5e237ea1.js.map",
+    "static/js/2.231f9db0.chunk.js": "/smmartprogrammer/partab-olx/static/js/2.231f9db0.chunk.js",
+    "static/js/2.231f9db0.chunk.js.map": "/smmartprogrammer/partab-olx/static/js/2.231f9db0.chunk.js.map",
+    "static/js/3.c962cc6b.chunk.js": "/smmartprogrammer/partab-olx/static/js/3.c962cc6b.chunk.js",
+    "static/js/3.c962cc6b.chunk.js.map": "/smmartprogrammer/partab-olx/static/js/3.c962cc6b.chunk.js.map",
+    "index.html": "/smmartprogrammer/partab-olx/index.html",
+    "static/css/main.c3392207.chunk.css.map": "/smmartprogrammer/partab-olx/static/css/main.c3392207.chunk.css.map",
+    "static/js/2.231f9db0.chunk.js.LICENSE.txt": "/smmartprogrammer/partab-olx/static/js/2.231f9db0.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.a300250d.js",
+    "static/js/runtime-main.5e237ea1.js",
     "static/js/2.231f9db0.chunk.js",
     "static/css/main.c3392207.chunk.css",
     "static/js/main.94353f41.chunk.js"
