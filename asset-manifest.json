@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/smmartprogrammer/partab-olx/static/css/main.c3392207.chunk.css",
-    "main.js": "/smmartprogrammer/partab-olx/static/js/main.94353f41.chunk.js",
-    "main.js.map": "/smmartprogrammer/partab-olx/static/js/main.94353f41.chunk.js.map",
-    "runtime-main.js": "/smmartprogrammer/partab-olx/static/js/runtime-main.5e237ea1.js",
-    "runtime-main.js.map": "/smmartprogrammer/partab-olx/static/js/runtime-main.5e237ea1.js.map",
-    "static/js/2.231f9db0.chunk.js": "/smmartprogrammer/partab-olx/static/js/2.231f9db0.chunk.js",
-    "static/js/2.231f9db0.chunk.js.map": "/smmartprogrammer/partab-olx/static/js/2.231f9db0.chunk.js.map",
-    "static/js/3.c962cc6b.chunk.js": "/smmartprogrammer/partab-olx/static/js/3.c962cc6b.chunk.js",
-    "static/js/3.c962cc6b.chunk.js.map": "/smmartprogrammer/partab-olx/static/js/3.c962cc6b.chunk.js.map",
-    "index.html": "/smmartprogrammer/partab-olx/index.html",
-    "static/css/main.c3392207.chunk.css.map": "/smmartprogrammer/partab-olx/static/css/main.c3392207.chunk.css.map",
-    "static/js/2.231f9db0.chunk.js.LICENSE.txt": "/smmartprogrammer/partab-olx/static/js/2.231f9db0.chunk.js.LICENSE.txt"
+    "main.css": "/partab-olx/static/css/main.c3392207.chunk.css",
+    "main.js": "/partab-olx/static/js/main.94353f41.chunk.js",
+    "main.js.map": "/partab-olx/static/js/main.94353f41.chunk.js.map",
+    "runtime-main.js": "/partab-olx/static/js/runtime-main.9005f517.js",
+    "runtime-main.js.map": "/partab-olx/static/js/runtime-main.9005f517.js.map",
+    "static/js/2.231f9db0.chunk.js": "/partab-olx/static/js/2.231f9db0.chunk.js",
+    "static/js/2.231f9db0.chunk.js.map": "/partab-olx/static/js/2.231f9db0.chunk.js.map",
+    "static/js/3.c962cc6b.chunk.js": "/partab-olx/static/js/3.c962cc6b.chunk.js",
+    "static/js/3.c962cc6b.chunk.js.map": "/partab-olx/static/js/3.c962cc6b.chunk.js.map",
+    "index.html": "/partab-olx/index.html",
+    "static/css/main.c3392207.chunk.css.map": "/partab-olx/static/css/main.c3392207.chunk.css.map",
+    "static/js/2.231f9db0.chunk.js.LICENSE.txt": "/partab-olx/static/js/2.231f9db0.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.5e237ea1.js",
+    "static/js/runtime-main.9005f517.js",
     "static/js/2.231f9db0.chunk.js",
     "static/css/main.c3392207.chunk.css",
     "static/js/main.94353f41.chunk.js"
