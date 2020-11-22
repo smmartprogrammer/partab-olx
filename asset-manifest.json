@@ -1,22 +1,23 @@
 {
   "files": {
-    "main.css": "/partab-olx/static/css/main.c3392207.chunk.css",
-    "main.js": "/partab-olx/static/js/main.94353f41.chunk.js",
-    "main.js.map": "/partab-olx/static/js/main.94353f41.chunk.js.map",
-    "runtime-main.js": "/partab-olx/static/js/runtime-main.9005f517.js",
-    "runtime-main.js.map": "/partab-olx/static/js/runtime-main.9005f517.js.map",
-    "static/js/2.231f9db0.chunk.js": "/partab-olx/static/js/2.231f9db0.chunk.js",
-    "static/js/2.231f9db0.chunk.js.map": "/partab-olx/static/js/2.231f9db0.chunk.js.map",
-    "static/js/3.c962cc6b.chunk.js": "/partab-olx/static/js/3.c962cc6b.chunk.js",
-    "static/js/3.c962cc6b.chunk.js.map": "/partab-olx/static/js/3.c962cc6b.chunk.js.map",
+    "main.css": "/partab-olx/static/css/main.bd8aed8b.chunk.css",
+    "main.js": "/partab-olx/static/js/main.ca7830b6.chunk.js",
+    "main.js.map": "/partab-olx/static/js/main.ca7830b6.chunk.js.map",
+    "runtime-main.js": "/partab-olx/static/js/runtime-main.679eb8c3.js",
+    "runtime-main.js.map": "/partab-olx/static/js/runtime-main.679eb8c3.js.map",
+    "static/js/2.9090761a.chunk.js": "/partab-olx/static/js/2.9090761a.chunk.js",
+    "static/js/2.9090761a.chunk.js.map": "/partab-olx/static/js/2.9090761a.chunk.js.map",
+    "static/js/3.cf1b5138.chunk.js": "/partab-olx/static/js/3.cf1b5138.chunk.js",
+    "static/js/3.cf1b5138.chunk.js.map": "/partab-olx/static/js/3.cf1b5138.chunk.js.map",
     "index.html": "/partab-olx/index.html",
-    "static/css/main.c3392207.chunk.css.map": "/partab-olx/static/css/main.c3392207.chunk.css.map",
-    "static/js/2.231f9db0.chunk.js.LICENSE.txt": "/partab-olx/static/js/2.231f9db0.chunk.js.LICENSE.txt"
+    "static/css/main.bd8aed8b.chunk.css.map": "/partab-olx/static/css/main.bd8aed8b.chunk.css.map",
+    "static/js/2.9090761a.chunk.js.LICENSE.txt": "/partab-olx/static/js/2.9090761a.chunk.js.LICENSE.txt",
+    "static/media/addphotos.57d2c2ad.png": "/partab-olx/static/media/addphotos.57d2c2ad.png"
   },
   "entrypoints": [
-    "static/js/runtime-main.9005f517.js",
-    "static/js/2.231f9db0.chunk.js",
-    "static/css/main.c3392207.chunk.css",
-    "static/js/main.94353f41.chunk.js"
+    "static/js/runtime-main.679eb8c3.js",
+    "static/js/2.9090761a.chunk.js",
+    "static/css/main.bd8aed8b.chunk.css",
+    "static/js/main.ca7830b6.chunk.js"
   ]
 }
